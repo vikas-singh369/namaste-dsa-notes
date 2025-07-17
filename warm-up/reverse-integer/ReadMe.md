@@ -9,17 +9,20 @@ Example:
 
 
 ## Approach 
-my approach is 
-1. store the original value `original`
-2. absolute the value the 
-3. reverse
+my approach is to reverse the number 
+1. store the original: save x  value in `original`
+2. absolute the value of x `x = Math.abs(x)` because i want to handle negative numbers by converting them into positive, and after reversing the number i will restore the sign.
+
+3. reverse 
 ```
 initilize rev = 0;
+
 while(x>0){
   let rem = x % 10;
   rev = (rev*10) + rem
   x = x/10
 }
+
 4. restore the sign if rev = original < 0? : -rev : rev
 
 limit = 2^31 
