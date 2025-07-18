@@ -40,3 +40,7 @@ retrun secondLargest === -Infinity ? " No second largest found " : secondLargest
 
 }
 ```
+
+[Code](./solution.js)
+
+**By vikas singh**
