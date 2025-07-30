@@ -50,3 +50,6 @@ a xor 0 -> 0
 **Time Complexity** : O(n) -> loop ones one for the array.
 
 **Space Complexity** : O(1) -> no extra space used
+
+
+**By vikas singh**
