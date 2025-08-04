@@ -13,6 +13,9 @@ Grateful to **Akshay Saini Sir** for the clear and structured guidance through t
 - **[Palindrome](./1-warm-up/palindrome/)**
 - **[Reverse-interger](./1-warm-up/reverse-integer/)**
 - **[Second-largest](./1-warm-up/second-largest/)**
+- **[Count-Digits](./1-warm-up/count-digits/)**
+
+-- **[Practice](https://namastedev.com/playground)**
 
 ### 🔹 [2-Array](./2-array/)
 
