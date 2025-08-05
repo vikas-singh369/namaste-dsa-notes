@@ -18,4 +18,12 @@ Grateful to **Akshay Saini Sir** for the clear and structured guidance through t
 -- **[Practice](https://namastedev.com/playground)**
 
 ### 🔹 [2-Array](./2-array/)
-
+- **[Remove Duplicates](./2-array/remove-duplicates/)**
+- **[Remove Element](./2-array/remove-element/)**
+- **[Reverse String](./2-array/reverse-string/)**
+- **[Move Zeros](./2-array/move-zeros/)**
+- **[Max Consecutive Ones](./2-array/max-consecutive-ones/)**
+- **[Single Number](./2-array/single-number/)**
+- **[Merge Sorted Array](./2-array/merge-sorted-array/)**
+- **[Best time buy and sell](./2-array/best-time-buy-sell-stock/)**
+- **[Missing number](./2-array/missing-number/)**
