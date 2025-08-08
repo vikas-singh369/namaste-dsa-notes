@@ -1,9 +1,9 @@
-function Node(val) {
+export function Node(val) {
   this.val = val;
   this.next = null;
 }
 
-function MyLinkedList() {
+export function MyLinkedList() {
   this.head = null;
   this.size = 0;
 }

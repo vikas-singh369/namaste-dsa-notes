@@ -71,3 +71,8 @@ if(index === 0){
 }
 ```
 5. increse the size;
+
+
+[Code](./add-in-list.js);
+
+**By vikas singh**
