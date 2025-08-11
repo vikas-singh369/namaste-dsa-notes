@@ -7,23 +7,14 @@ It reflects my problem-solving skills, logical thinking, and consistent practice
 Grateful to **Akshay Saini Sir** for the clear and structured guidance through the Namaste DSA series.This repo is a reflection of my learning, inspired by your guidance and teaching style.
 
 ##  Folder Structure
+Every folder has its own README structure that contains the approach and solution.
 
-### 🔹 [1-warm-up](./1-warm-up/)
-
-- **[Palindrome](./1-warm-up/palindrome/)**
-- **[Reverse-interger](./1-warm-up/reverse-integer/)**
-- **[Second-largest](./1-warm-up/second-largest/)**
-- **[Count-Digits](./1-warm-up/count-digits/)**
-
--- **[Practice](https://namastedev.com/playground)**
+### 🔹 [1-Warm-Up](./1-warm-up/)
 
 ### 🔹 [2-Array](./2-array/)
-- **[Remove Duplicates](./2-array/remove-duplicates/)**
-- **[Remove Element](./2-array/remove-element/)**
-- **[Reverse String](./2-array/reverse-string/)**
-- **[Move Zeros](./2-array/move-zeros/)**
-- **[Max Consecutive Ones](./2-array/max-consecutive-ones/)**
-- **[Single Number](./2-array/single-number/)**
-- **[Merge Sorted Array](./2-array/merge-sorted-array/)**
-- **[Best time buy and sell](./2-array/best-time-buy-sell-stock/)**
-- **[Missing number](./2-array/missing-number/)**
+
+### 🔹 [3-Recursion-basic](./3-basic-recursion/)
+
+### 🔹 [4-Searching-Sorting](./4-searching-sorting/)
+
+### 🔹 [5-Linked-List](./5-linked-list/)
