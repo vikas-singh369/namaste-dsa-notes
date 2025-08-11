@@ -18,3 +18,10 @@ Every folder has its own README structure that contains the approach and solutio
 ### 🔹 [4-Searching-Sorting](./4-searching-sorting/)
 
 ### 🔹 [5-Linked-List](./5-linked-list/)
+
+
+
+---
+
+Maintained by [Vikas Singh](https://github.com/vikas-singh369)  
+Explore more projects on my [GitHub profile](https://github.com/vikas-singh369)
