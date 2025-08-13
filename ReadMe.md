@@ -23,5 +23,5 @@ Every folder has its own README structure that contains the approach and solutio
 
 ---
 
-Maintained by [Vikas Singh](https://github.com/vikas-singh369)  
+Created & Maintained by [Vikas Singh](https://github.com/vikas-singh369)  
 Explore more projects on my [GitHub profile](https://github.com/vikas-singh369)
