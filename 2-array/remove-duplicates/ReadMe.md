@@ -41,7 +41,7 @@ x = 0;
 for(i=0; i<arr; i++){
   if(arr[i]> arr[x]){
     x = x+1;
-    a[x] = a[i]
+    arr[x] = arr[i]
   }
 }
 
