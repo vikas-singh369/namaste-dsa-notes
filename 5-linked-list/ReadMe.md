@@ -1,4 +1,4 @@
-##  Folder Structure
+## Folder Structure
 
 ### 🔹 Linked List
 
@@ -7,3 +7,5 @@
 - **[Reverse Linked List](./reverse-linkedlist/)**
 - **[Linked List Cycle](./Linked-List-Cycle/)**
 - **[Palindrome](./palindrome-linked-list/)**
+- **[Remove Linked list Elements](./remove-linked-list-elements/)**
+- **[Intersection of two linked list](./intersection-of-two-linked-list/)**
