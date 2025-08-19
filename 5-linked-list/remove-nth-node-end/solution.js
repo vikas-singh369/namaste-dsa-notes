@@ -1,32 +1,37 @@
 /*
-* one pass Approach
-*/
+ * two pass Approach
+ */
 /**
  * @param {ListNode} head
  * @param {number} n
  * @return {ListNode}
  */
 var removeNthFromEnd = function (head, n) {
-    // create sentinel node 
-    let sentinel = new ListNode();
-    sentinel.next = head;
+  // create sentinel node
+  let sentinel = new ListNode();
+  sentinel.next = head;
 
-    // first pointer nth position ahead
-    let first = sentinel;
+  // calculate the length of list
+  let length = 0;
 
-    for (let i = 0; i < n; i++) {
-        first = first.next;
-    }
-    // run both pointer 1 step at time until first pointer reach null
-    let second = sentinel;
+  let curr = head;
 
-    while (first.next) {
-        first = first.next;
-        second = second.next;
-    }
-    // remove the nth element at the end 
-    second.next = second.next.next;
+  while (curr) {
+    length++;
+    curr = curr.next;
+  }
 
-    // return the new head;
-    return sentinel.next;
+  // find the prevPosition
+  let prevPosition = length - n;
+
+  let prev = sentinel;
+
+  for (let i = 0; i < prevPosition; i++) {
+    prev = prev.next;
+  }
+
+  // remove
+  prev.next = prev.next.next;
+
+  return sentinel.next;
 };
