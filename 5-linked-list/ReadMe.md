@@ -9,3 +9,5 @@
 - **[Palindrome](./palindrome-linked-list/)**
 - **[Remove Linked list Elements](./remove-linked-list-elements/)**
 - **[Intersection of two linked list](./intersection-of-two-linked-list/)**
+- **[Remove nth node at ent in list](./remove-nth-node-end/)**
+- **[Remove Duplicates](./remove-duplicates/)**
