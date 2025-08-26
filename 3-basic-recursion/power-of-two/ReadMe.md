@@ -22,7 +22,7 @@ Explanation: 24 = 16
 - Concept - when we divide any number by 2 reaptadely until it reaches 1.then the number is 2 power.
 
 - using recursive approach to solve this problem;
-- base case n===1 then return `true` invalid case: if the given number is odd then `false` and if divide and divide number again and again and my number is `n<1` retur `false`
+- base case n===1 then return `true` invalid case: if the given number is odd then `false` and if divide and divide number again and again and my number is `n<1` return `false`
 
 ```
 function (n){
