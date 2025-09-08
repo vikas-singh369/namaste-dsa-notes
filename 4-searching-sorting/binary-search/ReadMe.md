@@ -23,7 +23,27 @@ Explanation: 9 exists in nums and its index is 4
 
 6. I will repeat the process again and again until i found my `target` if my target is not availabe then i return the `-1` How i do that i just check my `left` and `right` cross each other `right > left `
 
-7. And if my array has only one value so i also consider that so i check my condition greater and eqaul so i modified it base condition `right >= left` it also run if my array has only one value. 
+7. And if my array has only one value so i also consider that so i check my condition greater and eqaul so i modified it base condition `right >= left` it also run if my array has only one value.
+
+
+```
+left = 0;
+right = arr.length - 1;
+
+while( right >= left){
+  let mid = ( left + right ) / 2;
+
+  if( target === mid){
+    return mid;
+  }else if( target > mid){
+    left = m + 1;
+  }else {
+    right = m - 1
+  }
+}
+
+return -1; 
+```
 
 
 
