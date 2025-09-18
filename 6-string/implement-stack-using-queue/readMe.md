@@ -29,4 +29,31 @@ Implement a last-in-first-out (LIFO) stack using only two queues. The implemente
 
 **Space Complexity** : 
 
-- - O(1) - n-place modifications with constant extra space
+ O(n) Because the data structure maintains two queues that together store up to n elements.
+
+
+
+
+ ## Approach 2 using one Queue
+
+ Approach is very simple instant using of two queue i just use one queue and rotate the value based on use case.
+
+ Suppose i want to pop value so i just pop out all ( n -1 ) front element into the queue and push back in the same queue and in the end pop() the front value because that is the last value of stack but we simulate stack using queue so we do that.
+
+ [Code](./using-one-queue.js)
+
+ ### Time and Space complexity
+
+ **Time-Complexity** :
+
+ - - push() O(1)
+
+ - - Empty() O(1)
+
+ - - top()/peek() O(n)
+
+ **Space-Complexity** : O (n)  n is the number of element that we store in queue.
+
+
+
+ **By vikas singh**
