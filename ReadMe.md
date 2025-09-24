@@ -19,6 +19,8 @@ Every folder has its own README structure that contains the approach and solutio
 
 ### 🔹 [5-Linked-List](./5-linked-list/)
 
+### 🔹 [6-String](./6-string/)
+
 
 
 ---
